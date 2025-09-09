@@ -1,6 +1,6 @@
 # Deciphering-HIE-multiple-pathways
 
-This is the GitHub repository for _"Charting the Influence of Deuterium Sources in Site-Selective Hydrogen Isotope Exchange."_
+This is the GitHub repository for _"Charting the influence of deuterium sources in hydrogen isotope exchange using a cobalt(III) catalytic platform."_
 
 **<ins>For the statistical analysis:</ins>**  
 The repository includes `.csv` files and the expected outputs.  
